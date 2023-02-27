@@ -1,5 +1,5 @@
 <?php 
-
+ 
 class BD_PDO
 {
 	//public $tot_reg;
